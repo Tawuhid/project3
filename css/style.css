@@ -1,0 +1,195 @@
+body {
+	margin: 0;
+	padding: 0;
+
+}
+
+.main{
+	min-height: 1000px;
+    width: 1400px;
+    margin: 0 auto;
+
+}
+
+.lefthead1{height: 50px;
+    width: 50%;
+    background-color: black;
+        float: left;
+       color:  #ca4a0b;
+
+}
+
+.lefthead2{
+	height: 50px;
+    width: 50%;
+    background-color: black;
+        float: left;
+        color:  #ca4a0b;
+}
+.righthead{
+	background-color: #826f4d;
+    height: 166px;
+    width: 100%;
+
+}
+.content{
+width: 100%;
+    height: 800px;
+    background-image: url(../image/1.jpg);
+    background-size: cover;
+}
+.left{
+	height: 100px;
+    width: 50%;
+    float: left;
+
+}
+
+.right{
+height: 100px;
+    width: 50%;
+    float: left;
+
+}
+.foot1{
+	    background-color: #826f4d;
+    width: 100%;
+    height: 100px;
+        margin-top: -15px;
+
+}
+.foot{
+
+}
+.leftfoot{
+
+}
+.rightfoot{
+
+}
+.hell{
+	    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 18px;
+    float: left;
+
+}
+.phone{
+	margin-top: 6px;
+    padding-left: 0px;
+    float: left;
+    margin-left: 40px;
+
+}
+.fa fa-phone{
+	font-size: 30px;
+    color: red
+}
+
+ul{
+
+}
+li{
+	
+    list-style-type: none;
+    float: right;
+    padding-right: 30px;
+}
+.logo{
+        height: 112px;
+    width: 130px;
+    background-color: #826f4d;
+    float: left;
+    background-image: url(../image/2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 50px;
+}
+
+.nothing{
+    background-color: #826f4d;
+    height: 116px;
+    width: 400px;
+    float: left;
+
+}
+.righthead ul li {
+float: left;
+    margin-left: 0px;
+    list-style-type: none;
+    color: black;
+    margin-top: 43px;
+
+}
+
+.righthead ul a {
+	    text-decoration: none;
+    color: #ff8300;
+    font-size: 27px
+
+}
+ button{
+ 	height: 34px;
+    width: 162px;
+    text-decoration-color: #0b1b21;
+    background-color: #f9dfaf;
+    border-style: solid;
+    border-color: black;
+
+}
+p{
+    margin-left: 100px;
+    color: wheat;
+    font-size: 22px;
+}
+h1{
+	margin-left: 100px;
+    margin-top: 300px;
+    color: white;
+    font-size: 43px;
+}
+.input{
+	margin-left: 230px;
+
+}
+h3{
+	    margin-top: 300px;
+    margin-left: 230px;
+    color: wheat;
+    font-size: 38px;
+
+}
+
+input{
+padding: 8px;
+    width: 260px;
+    height: 26px;
+    text-align: center;
+    margin-top: -11px;
+    background-color: #f9dfaf;
+
+}
+#one{
+
+}
+
+#two{
+
+}
+
+#three{
+
+}
+#four{
+
+}
+.foot1 li{
+	    float: left;
+    margin-top: 11px;
+    margin-bottom: 0px;
+    margin-left: 36px;
+    margin-right: 36px
+}
+a:hover{
+     background-color: #f9dfaf;
+}
